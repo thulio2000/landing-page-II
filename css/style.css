@@ -1,0 +1,42 @@
+h1 {
+    color: black;
+    font-size: 36px;
+}
+
+h2 {
+    color: black    
+}
+
+p {   
+    font-size: 20px;
+}
+
+header {
+    background-color: #F0F8FF;
+    padding: 200px 0;
+    background-image: url("../img/jumping_cats.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;    
+
+}
+
+.first-section ul {
+    background-color: #F7F9FC;
+    margin-top: 25px;
+    padding: 30px 55px;
+    border-radius: 8px;
+
+}
+
+.first-section li {
+    margin-bottom: 8px;
+}
+
+.first-section {
+    background-color: #fff;
+}
+
+.section {
+    padding: 60px 0 40px;
+}
