@@ -1,5 +1,5 @@
 h1 {
-    color: black;
+    color: magenta;
     font-size: 36px;
 }
 
@@ -14,7 +14,7 @@ p {
 header {   
     background-color: #F0F8FF;
     padding: 200px 0;
-    
+
     background-image: url("../img/jumping_cats.jpg");    
     background-size: cover;
     background-position: center center;
