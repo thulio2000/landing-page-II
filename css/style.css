@@ -11,14 +11,11 @@ p {
     font-size: 20px;
 }
 
-header {
-    background-color: #F0F8FF;
-    padding: 200px 0;
+header {   
     background-image: url(".../img/jumping_cats.jpg");    
     background-size: cover;
     background-position: center center;
-    background-repeat: no-repeat;    
-
+    background-repeat: no-repeat;
 }
 
 .first-section ul {
