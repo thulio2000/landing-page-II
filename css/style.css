@@ -65,6 +65,13 @@ header {
     margin-top: 35px;
 }
 
+.fourth-section {
+    background-color: #F0F8FF;
+    background-image: url("../img/cattern.png");
+    background-repeat: repeat;
+    background-size: 192px;    
+}
+
 .nav-item {
     margin: 10px 16px;
 }
@@ -73,6 +80,11 @@ header {
     height: 46px;
     margin-right: 8px;
     width: 46px;    
+}
+
+footer {
+    background-color: white;
+    padding: 35px 0;    
 }
 
 
