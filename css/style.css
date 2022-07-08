@@ -20,6 +20,10 @@ header {
     padding: 140px 0 100px;
 }
 
+.section {
+    padding: 60px 0 40px;
+}
+
 .first-section ul {
     background-color: #F7F9FC;
     margin-top: 25px;
@@ -38,10 +42,6 @@ header {
 
 .first-section {
     background-color: #fff;
-}
-
-.section {
-    padding: 60px 0 40px;
 }
 
 .second-section {
@@ -67,6 +67,9 @@ header {
 @media (min-width: 576px) {
     h1 {
         font-size: 48px;
+    }
+    .section {
+        padding: 100px 0;
     }
     header {
         padding: 200px 0;
