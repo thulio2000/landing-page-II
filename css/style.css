@@ -81,6 +81,12 @@ header {
     margin-right: 8px;
     width: 46px;    
 }
+.navbar-brand img {
+    height: 46px;
+    margin-right: 8px;
+    width: 46px;    
+}
+
 
 footer {
     background-color: white;
