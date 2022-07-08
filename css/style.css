@@ -58,6 +58,10 @@ header {
     width: 75px;
 }
 
+.nav-item {
+    margin: 10px 16px;
+}
+
 @media (min-width: 100px) {
     .section {
         padding: 100px 0;
