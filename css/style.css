@@ -58,6 +58,13 @@ header {
     width: 75px;
 }
 
+.third-section {
+    background-color: #FBFBFB;    
+}
+.third-section img {
+    margin-top: 35px;
+}
+
 .nav-item {
     margin: 10px 16px;
 }
@@ -90,7 +97,11 @@ header {
 @media (min-width: 768px) {
     .first-section img {
         margin-bottom: 20px;
+    }    
+    .third-section img {
+        margin-top: 0;
     }
+
 }
 
 @media (min-width: 992px) {
